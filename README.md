@@ -92,14 +92,6 @@ El proyecto abarca las diferentes fases del ciclo de vida del desarrollo de soft
 
 ---
 
-## REPOSITORIO
-
-GitHub:
-
-https://github.com/jesikaajz/TFG
-
----
-
 ## TECNOLOGÍAS UTILIZADAS
 
 * **Backend:** FastAPI, Python
@@ -113,10 +105,9 @@ https://github.com/jesikaajz/TFG
 
 ## AUTORES
 
-**Jesika Jiménez**
 **Gerard Chaparro Redondo**
+**Jesika Jiménez**
 
 Trabajo de Fin de Grado (TFG)
 Grado en Ingeniería Informática
 
-[GitHub – Jesika A. J. Z.](https://github.com/jesikaajz)
