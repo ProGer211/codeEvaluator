@@ -1,114 +1,122 @@
-# codeEvaluator – Bachelor's Thesis (TFG)
+# codeEvaluator – Trabajo de Fin de Grado (TFG)
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Academic-BSc%20Thesis-orange)]()
-[![Frontend](https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-blue)]()
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](https://github.com/jesikaajz/codeEvaluator/blob/main/LICENSE)
+[![Estado](https://img.shields.io/badge/Estado-TFG%20Académico-orange.svg)](https://github.com/jesikaajz/codeEvaluator)
+[![Frontend](https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-blue.svg)](https://github.com/jesikaajz/codeEvaluator)
 
-Final Degree Project (TFG) – Automated code evaluation platform.
----------------------------------------------------------------------
+## Trabajo de Fin de Grado (TFG) – Plataforma de evaluación automática de código
 
-##  DESCRIPTION
+## DESCRIPCIÓN
 
-**codeEvaluator** is a web platform designed for the automatic evaluation of source code. It allows users to submit solutions in different programming languages and receive detailed feedback on their correctness, style, and efficiency.
+**codeEvaluator** es una plataforma web diseñada para la evaluación automática de código fuente. Permite a los usuarios enviar soluciones en diferentes lenguajes de programación, compilarlas y ejecutarlas, y recibir información detallada sobre su corrección, estilo y eficiencia.
 
-The project covers all phases of the software development lifecycle, from planning to final documentation, applying software engineering methodologies and best practices.
+El proyecto abarca las diferentes fases del ciclo de vida del desarrollo de software, desde la planificación y el análisis de requisitos hasta la implementación, pruebas y documentación final, aplicando metodologías y buenas prácticas de ingeniería de software.
 
----------------------------------------------------------------------
+---
 
-##  PROJECT PHASES
+## FASES DEL PROYECTO
 
-### 1. Planning
-- Project scope definition
-- Stakeholder identification (students, instructors, administrators)
-- Task breakdown and time estimation
-- Milestone and deliverable planning
+### 1. Planificación
 
-### 2. Requirements Analysis
-- Functional requirements (code submission, compilation, execution, report generation)
-- Non-functional requirements (performance, security, scalability)
-- Use case identification
-- Requirement documentation
+* Definición del alcance del proyecto
+* Identificación de los usuarios implicados (estudiantes, profesores y administradores)
+* Descomposición de tareas y estimación temporal
+* Planificación de hitos y entregables
 
-### 3. System Design
-- Architectural design (client-server)
-- UML diagrams (use case, class, sequence)
-- Module decomposition (backend, frontend, evaluation engine)
-- Data modeling (database for users, exercises, submissions)
+### 2. Análisis de Requisitos
 
-### 4. Implementation
-- Backend development with fast API
-- Evaluation engine implementation in Python with C++ support
-- Frontend development with HTML, CSS, and JavaScript
-- Module integration and connection testing
+* Requisitos funcionales (envío, compilación, ejecución de código y generación de informes)
+* Requisitos no funcionales (rendimiento, seguridad y escalabilidad)
+* Identificación de casos de uso
+* Documentación de requisitos
 
-### 5. Testing
-- Test case definition
-- Unit and integration testing
-- Validation of functional and non-functional requirements
-- Verification of the evaluation engine across different languages
+### 3. Diseño del Sistema
 
-### 6. Documentation
-- Technical code documentation
-- Design specifications
-- User manual
-- Final thesis report
+* Diseño de la arquitectura cliente-servidor
+* Diagramas UML (casos de uso, clases y secuencia)
+* División del sistema en módulos (backend, frontend y motor de evaluación)
+* Modelado de datos (usuarios, ejercicios y entregas)
 
----------------------------------------------------------------------
+### 4. Implementación
 
-##  FEATURES
+* Desarrollo del backend con **FastAPI**
+* Implementación del motor de evaluación en Python con soporte para C++
+* Desarrollo del frontend con HTML, CSS y JavaScript
+* Integración de módulos y pruebas de conexión
 
--  Automatic source code evaluation
--  Support for multiple programming languages (C++, Python, etc.)
--  Detailed feedback (compilation errors, output, execution time)
--  Intuitive and responsive web interface
--  User and role management (students, instructors)
--  Submission and evaluation history
--  PDF report generation
--  Log recording for auditing and debugging
+### 5. Pruebas
 
----------------------------------------------------------------------
+* Definición de casos de prueba
+* Pruebas unitarias y de integración
+* Validación de requisitos funcionales y no funcionales
+* Verificación del motor de evaluación con diferentes lenguajes
 
-##  METHODOLOGY
+### 6. Documentación
 
-- Software Development Lifecycle (SDLC)
-- Agile methodology (Scrum/Kanban)
-- Clean Architecture principles
-- Documentation-driven development
+* Documentación técnica del código
+* Especificaciones de diseño
+* Manual de usuario
+* Memoria final del TFG
 
----------------------------------------------------------------------
+---
 
-##  LEARNING OBJECTIVES
+## CARACTERÍSTICAS
 
-- Apply knowledge acquired throughout the Computer Science degree
-- Develop a complete system following the software lifecycle phases
-- Use professional tools and frameworks (Django, Git, GitHub)
-- Document the project according to academic and professional standards
-- Work autonomously and manage time effectively
+* Evaluación automática de código fuente
+* Soporte para múltiples lenguajes de programación (C++, Python, etc.)
+* Información detallada sobre errores de compilación, resultados y tiempo de ejecución
+* Interfaz web intuitiva y adaptable
+* Gestión de usuarios y roles (estudiantes, profesores y administradores)
+* Historial de entregas y evaluaciones
+* Generación de informes en PDF
+* Registro de logs para auditoría y depuración
 
----------------------------------------------------------------------
+---
 
-##  REPOSITORY
+## METODOLOGÍA
 
-GitHub:  
-[https://github.com/jesikaajz/TFG](https://github.com/jesikaajz/TFG)
+* Ciclo de vida del desarrollo de software (SDLC)
+* Metodologías ágiles (Scrum/Kanban)
+* Principios de arquitectura de software
+* Desarrollo orientado a la documentación
 
----------------------------------------------------------------------
+---
 
-##  TECHNOLOGIES USED
+## OBJETIVOS DE APRENDIZAJE
 
-- **Backend**: FAST API, Python
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
-- **Database**: SQLite / PostgreSQL
-- **Evaluation Engine**: Python subprocess, compilers (g++, etc.)
-- **Version Control**: Git and GitHub
-- **Documentation**: Markdown, PDF
+* Aplicar los conocimientos adquiridos durante el Grado en Ingeniería Informática
+* Desarrollar un sistema completo siguiendo las diferentes fases del ciclo de vida del software
+* Utilizar herramientas y tecnologías profesionales
+* Documentar el proyecto siguiendo estándares académicos y profesionales
+* Trabajar de forma autónoma y gestionar el tiempo de desarrollo
 
----------------------------------------------------------------------
+---
 
-##  AUTHOR
+## REPOSITORIO
 
-**Jesika A. J. Z.**
+GitHub:
+
+https://github.com/jesikaajz/TFG
+
+---
+
+## TECNOLOGÍAS UTILIZADAS
+
+* **Backend:** FastAPI, Python
+* **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
+* **Base de datos:** PostgreSQL
+* **Motor de evaluación:** Python, `subprocess`, compiladores (g++, etc.)
+* **Control de versiones:** Git y GitHub
+* **Documentación:** Markdown, PDF
+
+---
+
+## AUTORES
+
+**Jesika Jiménez**
 **Gerard Chaparro Redondo**
-Bachelor's Thesis (TFG)  
-Bachelor's Degree in Computer Science  
-[GitHub: jesikaajz](https://github.com/jesikaajz)
+
+Trabajo de Fin de Grado (TFG)
+Grado en Ingeniería Informática
+
+[GitHub – Jesika A. J. Z.](https://github.com/jesikaajz)
